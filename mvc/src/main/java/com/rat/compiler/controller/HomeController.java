@@ -33,7 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		String msg = "siurek";
+		String msg = "moaj wiadomosc z controldfgdfgdfgera";
 		model.addAttribute("output", msg);
 		
 		return "home";
